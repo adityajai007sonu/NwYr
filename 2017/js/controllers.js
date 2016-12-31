@@ -148,7 +148,7 @@ myApp.controller('homeCtrl', function($scope,$stateParams,$http,$location,Search
 { title: 'Go to a food festival for a day', id: "Gym", img: '36.jpg' },
 { title: 'Be blind for a day', id: "Gym", img: '37.jpg' },
 { title: 'Try to break a Guiness World Record', id: "Gym", img: '38.jpg' },
-{ title: 'Don’t care what others think/say for one week', id: "Gym", img: '39.jpg' },
+{ title: 'Dont care what others think/say for one week', id: "Gym", img: '39.jpg' },
 { title: 'Commit to 24 hour silence. Mmmmmmm', id: "Gym", img: '40.jpg' },
 
   ];

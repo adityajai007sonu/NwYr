@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget 
-id="com.aditya.logicalpuzzle" 
+id="com.aditya.2017bucketlist" 
 version="1.0.0" 
 xmlns="http://www.w3.org/ns/widgets"
 xmlns:gap="http://phonegap.com/ns/1.0"
 >
-    <name>2017- Bucket List</name>
+    <name>2017-Calendar Bucket List</name>
     
     <description>Bucket list</description>
     <author email="adityakumar.doit@gmail.com" href="http://twitter.com/adityajai007">WebFlax</author>
